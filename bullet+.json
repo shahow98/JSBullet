@@ -1,0 +1,11 @@
+{
+    "name": "弹幕+",
+    "auther": "shahow",
+    "email": "1332892389@qq.com",
+    "icon": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1598196539237&di=be5fe86f1410231d92b580f22e10bfa4&imgtype=0&src=http%3A%2F%2Fn.sinaimg.cn%2Ftranslate%2F368%2Fw550h618%2F20180523%2FyM3B-hawmauc6030491.jpg",
+    "describe": "弹幕插件",
+    "detail": "F12控制台,通过$Bullet.handler.bind(seletor, event)绑定到事件，事件触发即可触发弹幕效果，API:$Bullet.helper()",
+    "version": "V1.17.20200824",
+    "remarks": "F12控制台,通过$Bullet.handler.bind(seletor, event)绑定到事件，事件触发即可触发弹幕效果，API:$Bullet.helper()",
+    "password":"123456"
+}
